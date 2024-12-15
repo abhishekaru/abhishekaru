@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 Abhishek Aru
-I am currently working on Blockchain Technology.
+Software developer working at Veritas Software technologies.
 
 
 ## 🌐 Socials:
