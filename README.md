@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 Abhishek Aru
-Software developer working at Veritas Software technologies.
+MTS-II  at Cohesity
 
 
 ## 🌐 Socials:
